@@ -15,6 +15,7 @@ public class ChilledMargin {
         System.out.println("Evan says, \"Greetings, GitHub!\""); 
         System.out.println("Evan says, \"Back at ya, Git!");    // added in the GitHub editor after initial "push"
         System.out.println("Evan says, "Hello, class!");
+        System.out.println("Evan says, "Hello, GitHub from Morse.");
     }
     
 }
