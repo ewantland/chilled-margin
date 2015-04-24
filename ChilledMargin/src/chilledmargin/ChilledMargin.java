@@ -9,13 +9,13 @@ package chilledmargin;
 public class ChilledMargin {
 
     /**
-     * @param args the command line arguments
+     *HA HA HA
      */
     public static void main(String[] args) {
-        System.out.println("Evan says, \"Greetings, GitHub!\""); 
-        System.out.println("Evan says, \"Back at ya, Git!");    // added in the GitHub editor after initial "push"
-        System.out.println("Evan says, "Hello, class!");
-        System.out.println("Evan says, "Hello, GitHub from Morse.");
+        System.out.println("Cam says, \"Greetings, GitHub!\"");
+        System.out.println("Cam says, \"Back at ya, Git!");    // added in the GitHub editor after initial "push"
+        System.out.println("Cam says, "Hello, class!");
+        System.out.println("Cam says, "Hello, GitHub from Morse.");
     }
-    
+
 }
